@@ -8,13 +8,7 @@ import team.kyp.kypcoffee.domain.Member;
 import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
-//test_branch 테스트 입니다
-//두번째 test 입니다!!!!
-//세번째 test 입니다!!!!
-//네번째 test 입니다!!!!
-//다섯번째 test 입니다!!!!
-//여섯번째
-//일곱번째
+
 @Controller
 public class MemberController {
 

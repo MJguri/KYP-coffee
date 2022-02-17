@@ -9,6 +9,8 @@ import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
 
+// 마지막 연습입니다
+
 @Controller
 public class MemberController {
 

@@ -14,7 +14,7 @@ import java.util.List;
 //네번째 test 입니다!!!!
 //다섯번째 test 입니다!!!!
 //여섯번째
-
+//일곱번째
 @Controller
 public class MemberController {
 

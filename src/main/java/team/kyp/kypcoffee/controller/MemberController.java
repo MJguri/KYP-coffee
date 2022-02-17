@@ -8,7 +8,7 @@ import team.kyp.kypcoffee.domain.Member;
 import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
-
+//test_branch 테스트 입니다
 @Controller
 public class MemberController {
 

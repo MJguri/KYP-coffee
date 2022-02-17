@@ -8,7 +8,7 @@ import team.kyp.kypcoffee.domain.Member;
 import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
-//test2
+//test22
 @Controller
 public class MemberController {
 

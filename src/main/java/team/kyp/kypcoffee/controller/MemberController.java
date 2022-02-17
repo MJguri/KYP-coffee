@@ -8,10 +8,9 @@ import team.kyp.kypcoffee.domain.Member;
 import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
-
+///test
 @Controller
 public class MemberController {
-
     @Autowired
     private MemberService service;
 

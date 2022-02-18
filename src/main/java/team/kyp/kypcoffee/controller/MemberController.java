@@ -9,6 +9,7 @@ import team.kyp.kypcoffee.service.MemberService;
 
 import java.util.List;
 ///test
+//testmin
 @Controller
 public class MemberController {
     @Autowired

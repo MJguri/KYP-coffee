@@ -10,6 +10,7 @@ import team.kyp.kypcoffee.service.MemberService;
 import java.util.List;
 ///test
 //testmin
+//tesmin22
 @Controller
 public class MemberController {
     @Autowired

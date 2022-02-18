@@ -12,6 +12,7 @@ import java.util.List;
 //testmin
 //tesmin22
 //testbranch
+//testtest
 @Controller
 public class MemberController {
     @Autowired
